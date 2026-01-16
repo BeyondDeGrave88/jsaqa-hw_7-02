@@ -1,0 +1,23 @@
+{
+  "name": "jsaqa-hw_7-02",
+  "version": "1.0.0",
+  "description": "test",
+  "keywords": [
+    "test"
+  ],
+  "homepage": "https://github.com/BeyondDeGrave88/jsaqa-hw_7-02#readme",
+  "bugs": {
+    "url": "https://github.com/BeyondDeGrave88/jsaqa-hw_7-02/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BeyondDeGrave88/jsaqa-hw_7-02.git"
+  },
+  "license": "ISC",
+  "author": "Dmitrii Sokolov",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
